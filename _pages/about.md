@@ -1,6 +1,8 @@
 ---
 permalink: /
-title: "About me"
+tit- Co-supervised 12 researchers (4 PhD and 8 MSc students), providing mentorship to support their academic and professional development.  
+
+# Research Interests"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
