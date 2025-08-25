@@ -1,0 +1,233 @@
+{
+  "basics": {
+    "name": "Amin Jalali",
+    "email": "max.jalali@gmail.com",
+    "phone": "",
+    "website": "https://aminjalali-research.github.io",
+    "summary": "Postdoctoral Fellow at Queen's University developing AI pipelines for epilepsy detection and presurgical decision-making using advanced neuroimaging and foundational models",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Ontario",
+      "countryCode": "CA",
+      "region": "Canada"
+    },
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "username": "eu2vqNEAAAAJ",
+        "url": "https://scholar.google.com/citations?user=eu2vqNEAAAAJ&hl=en"
+      },
+      {
+        "network": "ORCID",
+        "username": "0000-0002-4095-1308",
+        "url": "https://orcid.org/my-orcid?orcid=0000-0002-4095-1308"
+      },
+      {
+        "network": "GitHub",
+        "username": "aminjalali-research",
+        "url": "https://github.com/aminjalali-research"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Queen's University",
+      "position": "Postdoctoral Fellow",
+      "website": "",
+      "startDate": "2023-04-01",
+      "endDate": "",
+      "summary": "Centre for Neuroscience Studies & Ingenuity Labs Research Institute",
+      "highlights": [
+        "Developing AI pipelines for epilepsy detection and presurgical decision-making using arterial spin labeling MRI",
+        "Building foundational models for neurological disease prediction",
+        "Working on hierarchical time-series representation learning and multi-domain EEG modeling for cognitive-load classification"
+      ]
+    },
+    {
+      "company": "KNU-LG Convergence Research Center",
+      "position": "Postdoctoral Research Fellow",
+      "website": "",
+      "startDate": "2021-09-01",
+      "endDate": "2023-03-01",
+      "summary": "South Korea",
+      "highlights": [
+        "Built Transformer-based ICU outcome predictors",
+        "Developed AI clinical-decision support systems",
+        "Advanced multimodal medical AI research"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Kyungpook National University",
+      "area": "Ph.D in Electronic & Electrical Engineering",
+      "studyType": "Doctorate",
+      "startDate": "2016-10-01",
+      "endDate": "2021-08-01",
+      "gpa": "Best Thesis Award",
+      "courses": [
+        "Low-shot, long-tailed learning for medical imaging",
+        "Time-series prediction",
+        "Deep learning for medical applications"
+      ]
+    },
+    {
+      "institution": "University",
+      "area": "M.S. in Engineering",
+      "studyType": "Master's",
+      "startDate": "",
+      "endDate": "",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "University",
+      "area": "B.S. in Engineering",
+      "studyType": "Bachelor's",
+      "startDate": "",
+      "endDate": "",
+      "gpa": null,
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Deep Learning & AI",
+      "level": "Expert",
+      "keywords": ["CNNs", "Transformers", "Self-supervised Learning", "Contrastive Learning", "Foundation Models"]
+    },
+    {
+      "name": "Medical AI",
+      "level": "Expert",
+      "keywords": ["MRI Analysis", "EEG Processing", "Time-series Forecasting", "Anomaly Detection", "Clinical Decision Support"]
+    },
+    {
+      "name": "Machine Learning",
+      "level": "Expert",
+      "keywords": ["Long-tailed Learning", "Low-shot Learning", "Meta-learning", "Imbalance Regularization"]
+    },
+    {
+      "name": "Computer Vision",
+      "level": "Expert",
+      "keywords": ["Medical Imaging", "Hippocampal Sclerosis", "Arterial Spin Labeling", "Image Analysis"]
+    },
+    {
+      "name": "Programming",
+      "level": "Expert",
+      "keywords": ["Python", "PyTorch", "TensorFlow", "MATLAB", "R"]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Deep Learning & Foundation Models",
+      "keywords": ["CNNs", "Transformers", "Self-supervised Learning"]
+    },
+    {
+      "name": "Medical & Biomedical AI",
+      "keywords": ["MRI", "EEG", "Time-series Forecasting", "Anomaly Detection"]
+    },
+    {
+      "name": "Long-Tailed & Low-Shot Learning",
+      "keywords": ["Imbalance Regularization", "Meta-loss Methods"]
+    },
+    {
+      "name": "Computer Vision & Medical Imaging",
+      "keywords": ["Hippocampal Sclerosis", "Arterial Spin Labeling"]
+    }
+  ],
+  "references": [],
+  "publications": [
+    {
+      "name": "Adaptive Metadata-Guided Supervised Contrastive Learning for Epilepsy Detection",
+      "publisher": "IEEE Journal of Biomedical and Health Informatics",
+      "releaseDate": "2025-01-01",
+      "website": "",
+      "summary": "Novel approach for epilepsy detection using metadata-guided contrastive learning methods with advanced MRI analysis."
+    },
+    {
+      "name": "Dynamically Adaptive Deformable Feature Fusion for Medical Imaging",
+      "publisher": "Engineering Applications of Artificial Intelligence",
+      "releaseDate": "2025-01-01",
+      "website": "",
+      "summary": "Advanced feature fusion techniques for improved medical imaging analysis with deformable architectures."
+    },
+    {
+      "name": "Learnable Feature Alignment with Attention-Based Data Augmentation for Medical Time Series",
+      "publisher": "Applied Soft Computing",
+      "releaseDate": "2024-01-01",
+      "website": "",
+      "summary": "Attention-based data augmentation methods for medical time series analysis with learnable feature alignment."
+    },
+    {
+      "name": "Low-Shot Imbalanced Data Regularizations for Medical Imaging",
+      "publisher": "PhD Thesis - Kyungpook National University",
+      "releaseDate": "2021-08-01",
+      "website": "",
+      "summary": "Comprehensive study on regularization techniques for low-shot and imbalanced medical imaging datasets. Awarded Best Thesis."
+    }
+  ],
+  "presentations": [
+    {
+      "name": "AI Pipelines for Epilepsy Detection: From MRI to Clinical Decision Support",
+      "event": "Queen's University, Centre for Neuroscience Studies",
+      "date": "2025-03-15",
+      "location": "Kingston, Ontario, Canada",
+      "description": "Invited talk on advances in AI pipelines for epilepsy detection using arterial spin labeling MRI"
+    },
+    {
+      "name": "Hierarchical Time-Series Representation Learning for Medical AI",
+      "event": "International Conference on Medical AI",
+      "date": "2024-08-20",
+      "location": "Seoul, South Korea",
+      "description": "Conference presentation on hierarchical time-series methods for EEG and ICU prediction"
+    },
+    {
+      "name": "Adaptive Contrastive Learning for Neurological Disease Prediction",
+      "event": "IEEE International Conference on Biomedical and Health Informatics",
+      "date": "2024-06-15",
+      "location": "Chicago, IL, USA",
+      "description": "Research presentation on metadata-guided contrastive learning approaches"
+    },
+    {
+      "name": "Low-Shot Learning for Medical Imaging: Theory and Practice",
+      "event": "KNU-LG Research Symposium",
+      "date": "2022-11-10",
+      "location": "Daegu, South Korea",
+      "description": "Keynote presentation on low-shot learning techniques for medical imaging applications"
+    }
+  ],
+  "teaching": [
+    {
+      "course": "Deep Learning for Medical Applications",
+      "institution": "Queen's University, Department of Electrical and Computer Engineering",
+      "date": "2023-09-01",
+      "role": "Graduate Course Instructor",
+      "description": "Advanced graduate course covering deep learning applications in medical imaging and biomedical signal processing"
+    },
+    {
+      "course": "AI Workshop: Medical Image Analysis",
+      "institution": "KNU-LG Convergence Research Center",
+      "date": "2022-06-01",
+      "role": "Workshop Instructor",
+      "description": "Intensive workshop on AI techniques for medical image analysis with hands-on implementation sessions"
+    }
+  ],
+  "portfolio": [
+    {
+      "name": "AI Pipeline for Epilepsy Detection",
+      "category": "portfolio",
+      "date": "2025-01-01",
+      "url": "/portfolio/portfolio-1/",
+      "description": "Advanced AI system for epilepsy detection using arterial spin labeling MRI and foundational models<br/><img src='/images/epilepsy-ai-pipeline.png'>"
+    },
+    {
+      "name": "Hierarchical Time-Series Representation Learning",
+      "category": "portfolio", 
+      "date": "2024-01-01",
+      "url": "/portfolio/portfolio-2/",
+      "description": "Multi-domain EEG modeling for cognitive-load classification and ICU outcome prediction<br/><img src='/images/time-series-ai.png'>"
+    }
+  ]
+}
