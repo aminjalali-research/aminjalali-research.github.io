@@ -1,8 +1,6 @@
 ---
 permalink: /
-tit- Co-supervised 12 researchers (4 PhD and 8 MSc students), providing mentorship to support their academic and professional development.  
-
-# Research Interests"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -22,17 +20,7 @@ I'm a Postdoctoral Fellow at Queen's University's Centre for Neuroscience Studie
 
 - Co-supervised 12 researchers (4 PhD and 8 MSc students), providing mentorship to support their academic and professional development.  
 
-# News  
-- **Apr 2025** Started Postdoctoral Fellowship at Queen’s University  
-- **Feb 2025** Secured a Compute Canada RAC grant (55 k\$ & 45 RGU-years GPU) for multimodal AI research  
-- **2025** “Adaptive Metadata-Guided Supervised Contrastive Learning…” accepted in _IEEE JBHI_  
-- **2025** “Dynamically Adaptive Deformable Feature Fusion…” published in _Engineering Applications of AI_  
-- **2024** “Learnable Feature Alignment with Attention-Based Data Augmentation…” published in _Applied Soft Computing_  
-- **Feb 2022** Awarded Best PhD Thesis, Kyungpook National University  
-- **Mar 2021** PhD thesis defended with distinction (Low-Shot Imbalanced Data Regularizations)  
-- **Oct 2016** Received BK21 full scholarship for PhD studies  
-
-# Research Interests  
+# Research Interests
 - **Deep Learning & Foundation Models**: CNNs, Transformers, self-supervised & contrastive methods  
 - **Medical & Biomedical AI**: MRI, EEG, time-series forecasting, anomaly detection  
 - **Long-Tailed & Low-Shot Learning**: Imbalance regularization, meta-loss methods  
