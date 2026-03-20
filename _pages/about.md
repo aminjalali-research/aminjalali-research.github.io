@@ -18,11 +18,8 @@ I'm a Postdoctoral Fellow at Queen's University's Centre for Neuroscience Studie
 - Co-supervised 12 researchers (4 PhD and 8 MSc students), providing mentorship to support their academic and professional development.
 
 ## Research Interests
-- **Deep Learning & Foundation Models**: Transformers, self-supervised learning, masked autoencoders, mixture-of-experts
-- **Medical & Biomedical AI**: MRI imaging, EEG, time-series forecasting, anomaly detection, biosignal prediction
-- **Long-Tailed & Low-Shot Learning**: Imbalance learning regularizations, meta-loss methods, in-context learning, prompt tuning
-- **Multimodal Fusion**: Computer Vision, clinical signals, text, cross-modal attention
-- **Core ML/DL**: Reinforcement Learning, State-Space Models (Mamba), Multi-Task Learning, Low-Rank Adaptation (LoRA), Multi-Modal Foundation Models, Knowledge Graph Reasoning, Chain-of-Thought Reasoning
-- **NLP & Generative AI**: Sentiment Analysis, Large Language Model Fine-Tuning (Qwen, GPT), Retrieval-Augmented Generation (RAG), Instruction Tuning, Vector Search, agentic AI, hallucination mitigation, preference alignment
-- **Signal Processing & Bioinformatics**: EEG/Biosignal Processing, financial time-series analysis, sensor data modeling, foundation models for time-series
-- **Computer Vision & Multi-Modal**: Vision-Language Models, Contrastive Vision-Language Alignment, Multi-Modal Data Fusion and Alignment
+- **Deep Learning & Foundation Models**: Transformers, self-supervised learning, masked autoencoders, mixture-of-experts, State-Space Models (Mamba), Low-Rank Adaptation (LoRA), Multi-Task Learning, Reinforcement Learning
+- **NLP & Generative AI**: Large Language Model Fine-Tuning (Qwen, GPT), Retrieval-Augmented Generation (RAG), Instruction Tuning, Vector Search, agentic AI, hallucination mitigation, preference alignment, Knowledge Graph Reasoning, Chain-of-Thought Reasoning
+- **Computer Vision & Multimodal Fusion**: Vision-Language Models, Contrastive Vision-Language Alignment, cross-modal attention, Multi-Modal Data Fusion and Alignment
+- **Signal Processing & Biomedical AI**: MRI imaging, EEG/Biosignal Processing, time-series forecasting, anomaly detection, financial time-series analysis, sensor data modeling, foundation models for time-series
+- **Low-Shot & Imbalanced Learning**: Imbalance learning regularizations, meta-loss methods, in-context learning, prompt tuning, Sentiment Analysis
