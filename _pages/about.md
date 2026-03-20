@@ -12,12 +12,12 @@ I'm a Postdoctoral Fellow at Queen's University's Centre for Neuroscience Studie
 
 ## Profile Summary
 
-- Conduct research in medical artificial intelligence, computer vision, foundation models, long-tailed distribution learning, multimodal learning, and time-series prediction, focusing on advancing technical expertise in artificial intelligence and contributing actively to the research community.
+- Develop and apply cutting-edge AI methods across medical, financial, and multi-modal domains, with a focus on advancing both foundational research and real-world deployment.
 - Authored over 42 publications, including journal articles, conferences, and patents, featured in venues like NeurIPS, IEEE Transactions, and Elsevier, accumulating 890+ citations, with an h-index of 17.
 - Contributed to securing research funding and grants, supporting the expansion and development of innovative projects.
 - Co-supervised 12 researchers (4 PhD and 8 MSc students), providing mentorship to support their academic and professional development.
 
-# Research Interests
+## Research Interests
 - **Deep Learning & Foundation Models**: Transformers, self-supervised learning, masked autoencoders, mixture-of-experts
 - **Medical & Biomedical AI**: MRI imaging, EEG, time-series forecasting, anomaly detection, biosignal prediction
 - **Long-Tailed & Low-Shot Learning**: Imbalance learning regularizations, meta-loss methods, in-context learning, prompt tuning
