@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Postdoctoral Fellow at Queen's University's Centre for Neuroscience Studies & Ingenuity Labs Research Institute, where I develop multi-modal AI pipelines integrating foundation models, retrieval-augmented generation (RAG), and reinforcement learning across diverse domains including medical, financial, and sensor signals as well as multi-modal data such as images, text, and time-series. I have also been a Postdoctoral Fellow in ECE & Ingenuity Labs at Queen's since Apr 2023, working on hierarchical time-series representation learning and multi-domain EEG modeling with state-space models and large language model fine-tuning. From Sept 2021–Mar 2023, I was at the KNU-LG Convergence Research Center in South Korea, building Transformer-based ICU outcome predictors and AI clinical-decision support systems. I earned my PhD (with Best Thesis Award) in Electronic & Electrical Engineering from Kyungpook National University in August 2021, where I focused on low-shot, long-tailed learning for medical imaging and time-series prediction.
+I'm a Postdoctoral Fellow at Queen's University's Centre for Neuroscience Studies & Ingenuity Labs Research Institute, where I develop multi-modal AI pipelines integrating foundation models, retrieval-augmented generation (RAG), and reinforcement learning across diverse domains including medical, financial, and sensor signals as well as multi-modal data such as images, text, and time-series. I have also been a Postdoctoral Fellow in ECE & Ingenuity Labs at Queen's since Apr 2023, working on hierarchical time-series representation learning and multi-domain EEG modeling with state-space models and large language model fine-tuning.
+
+Previously, from Sept 2021–Mar 2023, I was at the KNU-LG Convergence Research Center in South Korea, building Transformer-based ICU outcome predictors and AI clinical-decision support systems. I earned my PhD (with Best Thesis Award) in Electronic & Electrical Engineering from Kyungpook National University in August 2021, where I focused on low-shot, long-tailed learning for medical imaging and time-series prediction.
 
 ## Profile Summary
 

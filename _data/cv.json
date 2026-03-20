@@ -115,7 +115,22 @@
     {
       "name": "Programming",
       "level": "Expert",
-      "keywords": ["Python", "PyTorch", "TensorFlow", "MATLAB", "R"]
+      "keywords": ["Python", "MATLAB", "SQL"]
+    },
+    {
+      "name": "ML/DL Frameworks",
+      "level": "Expert",
+      "keywords": ["PyTorch", "TensorFlow", "Hugging Face Transformers", "vLLM", "LoRA/PEFT"]
+    },
+    {
+      "name": "LLM & GenAI Tools",
+      "level": "Expert",
+      "keywords": ["LangChain", "OpenAI API", "RAG pipelines", "Vector Databases"]
+    },
+    {
+      "name": "Platforms & DevOps",
+      "level": "Expert",
+      "keywords": ["Linux", "Ubuntu", "Docker", "Git", "Jupyter", "HPC/SLURM", "LaTeX"]
     }
   ],
   "languages": [],
